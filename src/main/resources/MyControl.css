@@ -1,0 +1,7 @@
+.text-field {
+    -fx-font-size: 32px;
+}
+
+.text-field .context-menu {
+    -fx-font: null;
+}
